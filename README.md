@@ -25,4 +25,3 @@ Training Process:
 Prediction Process:
 Algorithm makes predictions for Continuous input from live sensors (temperature, vibration, pressure) 
 Streaming data processed via edge computing or cloud platforms.
-<img width="1884" height="700" alt="image" src="https://github.com/user-attachments/assets/56d9a1db-e56b-476d-9510-6aa0c684d02d" />
