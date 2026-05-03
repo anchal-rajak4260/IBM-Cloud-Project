@@ -7,9 +7,9 @@ Develop a predictive maintenance model for a fleet of industrial machines to ant
 Objective: Develop a predictive maintenance model to anticipate machine failures. 
 Challenge: Use sensor data to identify patterns that precede failures. 
 
-# Target : Failure or Not
-# Failure Type : Type of Failure
-# Impact: Reduce downtime and operational costs through proactive maintenance. 
+### Target : Failure or Not
+### Failure Type : Type of Failure
+### Impact: Reduce downtime and operational costs through proactive maintenance. 
 
 
 
